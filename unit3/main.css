@@ -1,0 +1,17 @@
+body {
+	background-color: white;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 700;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: red;
+}
+	div{
+	width: 150px;
+	height: 150px
+	background-color: yellow;
+	margin: 20px;
+	padding: 20px;
+}
+
