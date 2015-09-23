@@ -1,0 +1,54 @@
+*{
+	margin: 0px;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+body {
+	text-align: center;
+	background-color: white;
+	font-family: 'kokonor, sans-serif;
+	font-size: 900;
+	
+}
+#wordmarks .display {
+    padding: 1em;
+    line-height: 0.75em;
+    background-color: #fff;
+    border: 0.125em solid transparent;
+}
+
+li{
+	float: left;
+	margin: 40px;
+}
+ul{
+	width: 600px;
+	margin: auto;
+	
+}
+
+img{
+	width: 200px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: purple;
+	font-family: 'veranda', sans-serif;
+}
+	.column{
+		width: 500px;
+		float: left;
+		height: 300px;
+		margin: 20px;
+
+	}
+
+	.clearfix:after{
+		visibility: hidden;
+		height: 0;
+		font-size: 0;
+		display: block;
+		content: ' ';
+		clear: both;
+	}
